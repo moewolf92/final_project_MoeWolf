@@ -10,6 +10,11 @@
 
 ## Part 2
 
-### I continued to pursue this story, but I found better data to cupport it at [DataUSA.io](Copy of Data USA Cart.csv), and created a few [visualizations of the data](Access to Healthy Food, Poverty, and Obesity.pdf). 
+### I continued to pursue this story, but I found better data to support it at [DataUSA.io](Copy of Data USA Cart.csv). 
+### I originally intended to tell this story through various maps, the data was all aggregated on the county level, so that kind of just made sense to me. However, after fiddling around with it for a while, I asked some people how it looked, and realized that it wasn't as descriptive as I imagined it would be. Here is an example of a [map](Map.pdf) I made at this stage. It's a little too cluttered and the relationships just don't stand out. 
+
+### and created a few [visualizations of the data](Access to Healthy Food, Poverty, and Obesity.pdf). 
+
+
 
 
