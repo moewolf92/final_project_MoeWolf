@@ -83,3 +83,5 @@ creating foods that their consumers crave. Pairing a snacking habit with a snack
 >The story map was great because I love thinking about things as a story. Regarding the graphs, I feel the trends aren't crystal clear, so it may help to add some numbers or analysis to say, there's a correlation of X or something like that.
 
 >Nice!
+
+
