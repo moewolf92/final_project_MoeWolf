@@ -36,32 +36,45 @@ these images are in higher quality here - [visualizations of the data](Access to
 
 1. Why do you think poor people or minorities in the US are out of shape or have lifestyle diseases (heart conditions, lung disease, diabetes, etc)?
 >Hard to find motivation to work out
-/
+
+
 >Systemic racism, capitalism exploiting working-class people, tax reforms that benefit the wealthy and not the middle-class or poor, dairy/poultry/meat subsidies that make those foods cheap instead of fruits/vegetables, lack of access to healthy diet/exercise.
-/
+
+
 >I feel a major contributor is overeating and especially the heavily-processed foods many of us eat. I think if you replace clearly defined, punctuated meals with constant snacking, I think it makes sense that people eat too much. The industry has become masterful in 
 creating foods that their consumers crave. Pairing a snacking habit with a snack that can't be put down is a recipe for disaster.
-/
+
+
 2. Do you think these people bear responsibility for the health conditions they have?
 >Not complete, I think their circumstance and where they live have a piece to play in it
-/
+
+
 >No, they are exploited by this system.
-/
+
+
 >No, people do not bear complete responsibility for these conditions. In general, people are not well educated about nutrition. Time and time again, the processed foods industry has made windfalls by propagating health claims like "low fat" or "low sugar," alternating their focus based on what consumers fear the most at the moment. The whole picture is important, but the industry doesn't want people to focus on whether their foods can realistically be part of a healthy diet.
-/
+
+
 3. Do you understand these graphs? What do you like/not like about them?
 **Graph 1**
 >This one is great! Very clear.
-/
+
+
 >I understand the x-axis and y-axis values. I wish I understood what the different shades of blue represent?
-/
+
+
 >Yes, I can make sense of this graph. It points to a potential relationship between poverty and obesity. There appears to be a positive correlation, but it's not clear to me how strong it is. I like the color-scheme of the graph and the hollow circles. I think it's designed well, but I feel the labels are too small. Event in a pdf, it's a little hard to read. Also, it's not clear what is being plotted. Is each circle a city? County? Census tract?
+
+
 **Graph 2**
 >I like this one!
-/
+
+
 >I still don't know the different shades of blue.
-/
+
+
 >I think my above comments apply here too. I like the graph and think it's well designed. I'm not sure how I feel about the blue panel on the x-axis, maybe just leave it white? I just went back and read the captions for both graphs, but I'm still not sure what each circle is. I think a little context could be added to the caption too!
+
 
 4. Do you understand this story outline? What do you like/not like about it? 
 >Love this story, very clear and fun to read
