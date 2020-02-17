@@ -84,7 +84,7 @@ creating foods that their consumers crave. Pairing a snacking habit with a snack
 
 
 >This is pretty cool! I feel it flows well, and I get it. Here are a few specific comments:
-
+>
 >I think you could add a pane before 5 to explain the general point you're making. Then the current 5 could serve as a great example. Also, from context, I think this is directed to physicians. So I would think carefully about what I'm asking them to do. Could the last three panes relate more closely to the issues you've raised earlier? This is about how the environment shapes our health right, so maybe one specific thing is just for the physician to educate the patient on the key stats. Like you're pitching that physicians act like epidemiologists for a minute. I'm not sure if that makes sense, it's just one idea.
 
 
