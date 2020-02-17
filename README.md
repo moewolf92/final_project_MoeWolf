@@ -10,6 +10,6 @@
 
 ## Part 2
 
-### I continued to pursue this story, but I found better data to cupport it at [DataUSA.io](Copy of Data USA Cart.csv), and created a few ![visualizations of the data](Access to Healthy Food, Poverty, and Obesity.pdf). 
+### I continued to pursue this story, but I found better data to cupport it at [DataUSA.io](Copy of Data USA Cart.csv), and created a few [visualizations of the data](Access to Healthy Food, Poverty, and Obesity.pdf). 
 
 
