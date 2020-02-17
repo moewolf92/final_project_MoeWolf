@@ -112,3 +112,5 @@ Most of the issues seemed to be the labeling, which I intend to make clearer. I 
 For the story, I will be working on the speicifc wording, but that part seemed a lot better. Most of the issues seemed to arrive in the solution I presented, which are the solutions that I learned about through classes, conferences, and books on the matter. I'll do more in-depth research on proven solutions to these issues, and incorperate those as well. 
 
 I will continue to use shorthand, as it seems to have a pretty simple interface and the ways it delivers graphis will work well with my story. 
+
+
