@@ -29,6 +29,4 @@ these images are in higher quality here - [visualizations of the data](Access to
 5. What are your thoughts now on the first two questions?
 
 
-### and created a few [visualizations of the data](Access to Healthy Food, Poverty, and Obesity.pdf). 
-
 
