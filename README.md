@@ -15,10 +15,18 @@ I originally intended to tell this story through various maps, the data was all 
 
 ### user research protocol: 
 * target audience I hope to reach
-  * Jaded Healthcare Professionals
+  * Healthcare Professionals
 * Approach to identifying representative individuals to interview
   * Talk to doctors, nurses, and other healthcare professionals I know
 * Interview script/findings
+
+I created a ![Google Form](https://forms.gle/G5bwPHUaoP8Z5A6QA) for my interview subjects to fill out. The questions were as follows:
+1. Why do you think poor people or minorities in the US are out of shape or have lifestyle diseases (heart conditions, lung disease, diabetes, etc)?
+2. Do you think these people bear responsibility for the health conditions they have?
+3. Do you understand these graphs? What do you like/not like about them? ![Graph 1](https://lh6.googleusercontent.com/Faitze2aC7zlBoVQlVbE4PVAimNXOkAuE3VW-aN1cKZKPUhy6RUxOFM1BFoj7uW1aOkqy5wpUo7rKJGn2hntimSpP9wBVakjlRTMGuJSr85LfpVmFbihIu_I8RkS=w740) ![Graph 2](https://lh6.googleusercontent.com/JO7M5ew4ayTqA2zKxydSdv3Gyu_LKwYX26M4nZy0Jb9EAFvzTM00s2LFW0mkHyfn6MMShJmmKdkBcfjdYYmIzYMt2T90bSp6rhmkHa91EGMH9BbAif2KAJDyRAef=w740)
+4. Do you understand this story outline? What do you like/not like about it? ![Outline](https://lh4.googleusercontent.com/BGuJDlgc_ZDQpaTMKBvyAic2i-ADcvVTgd_OifV_IMlDJT6PZRO2ctjv6E1z1SsnEQurCESoHo9h08jwfBCP9NIqrdfySTKLUGoQhrU3AbKfZ5F15_rMdGMIDkrQ=w740)
+5. What are your thoughts now on the first two questions?
+
 
 ### and created a few [visualizations of the data](Access to Healthy Food, Poverty, and Obesity.pdf). 
 
