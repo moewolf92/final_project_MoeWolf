@@ -23,7 +23,9 @@ I originally intended to tell this story through various maps, the data was all 
 I created a [Google Form](https://forms.gle/G5bwPHUaoP8Z5A6QA) for my interview subjects to fill out. The questions were as follows:
 1. Why do you think poor people or minorities in the US are out of shape or have lifestyle diseases (heart conditions, lung disease, diabetes, etc)?
 2. Do you think these people bear responsibility for the health conditions they have?
-3. Do you understand these graphs? What do you like/not like about them? ![Graph 1](https://lh6.googleusercontent.com/Faitze2aC7zlBoVQlVbE4PVAimNXOkAuE3VW-aN1cKZKPUhy6RUxOFM1BFoj7uW1aOkqy5wpUo7rKJGn2hntimSpP9wBVakjlRTMGuJSr85LfpVmFbihIu_I8RkS=w740) ![Graph 2](https://lh6.googleusercontent.com/JO7M5ew4ayTqA2zKxydSdv3Gyu_LKwYX26M4nZy0Jb9EAFvzTM00s2LFW0mkHyfn6MMShJmmKdkBcfjdYYmIzYMt2T90bSp6rhmkHa91EGMH9BbAif2KAJDyRAef=w740)
+3. Do you understand these graphs? What do you like/not like about them? 
+![Graph 1](https://lh6.googleusercontent.com/Faitze2aC7zlBoVQlVbE4PVAimNXOkAuE3VW-aN1cKZKPUhy6RUxOFM1BFoj7uW1aOkqy5wpUo7rKJGn2hntimSpP9wBVakjlRTMGuJSr85LfpVmFbihIu_I8RkS=w740)
+![Graph 2](https://lh6.googleusercontent.com/JO7M5ew4ayTqA2zKxydSdv3Gyu_LKwYX26M4nZy0Jb9EAFvzTM00s2LFW0mkHyfn6MMShJmmKdkBcfjdYYmIzYMt2T90bSp6rhmkHa91EGMH9BbAif2KAJDyRAef=w740)
 
 these images are in higher quality here - [visualizations of the data](Access to Healthy Food, Poverty, and Obesity.pdf)
 
