@@ -10,19 +10,16 @@
 
 ## Part 2
 
-### I continued to pursue this story, but I found better data to support it at [DataUSA.io](Copy of Data USA Cart.csv). 
-### I originally intended to tell this story through various maps, the data was all aggregated on the county level, so that kind of just made sense to me. However, after fiddling around with it for a while, I asked some people how it looked, and realized that it wasn't as descriptive as I imagined it would be. Here is an example of a [map](Map.pdf) I made at this stage. It's a little too cluttered and the relationships just don't stand out. 
+I continued to pursue this story, but I found better data to support it at [DataUSA.io](Copy of Data USA Cart.csv). 
+I originally intended to tell this story through various maps, the data was all aggregated on the county level, so that kind of just made sense to me. However, after fiddling around with it for a while, I asked some people how it looked, and realized that it wasn't as descriptive as I imagined it would be. Here is an example of a [map](Map.pdf) I made at this stage. It's a little too cluttered and the relationships just don't stand out. 
 
-### user research protocol should clearly identify the following: 
-*target audience I hope to reach
-  *Jaded Healthcare Professionals
-*Approach to identifying representative individuals to interview
-  *Talk to doctors, nurses, and other healthcare professionals I know
-*Interview script/findings
+### user research protocol: 
+* target audience I hope to reach
+  * Jaded Healthcare Professionals
+* Approach to identifying representative individuals to interview
+  * Talk to doctors, nurses, and other healthcare professionals I know
+* Interview script/findings
 
 ### and created a few [visualizations of the data](Access to Healthy Food, Poverty, and Obesity.pdf). 
 
-
-
-I think there's an interesting angle here, but it's not clear that your story will be supported by the data you select.  I also appreciate that you started building out the site in Shorthand, but it doesn't seem to include your own sketches.  There are some graphic image placeholders and maps, but in this case it's probably better to begin illustrating how you'll use the data visualizations to better support your story.   I don't see a story arc here or call to action, so it's not really clear who the audience for this will be or how you'll construct the story outside of what you talk about with the outline
 
