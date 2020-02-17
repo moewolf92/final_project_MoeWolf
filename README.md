@@ -98,11 +98,5 @@ creating foods that their consumers crave. Pairing a snacking habit with a snack
 
 
 >I feel more informed on the role of environment in our health. I think there are so many things to consider when discussing these questions. I was focused on the processed-foods industry, but of course, the things you pointed to are important. It's so hard to eat well if you are poor. Or rather, eating well becomes infinitely more possible if you are upper middle class or better.
-
-
 >The story map was great because I love thinking about things as a story. Regarding the graphs, I feel the trends aren't crystal clear, so it may help to add some numbers or analysis to say, there's a correlation of X or something like that.
-
 >Nice!
-
-
-
