@@ -13,7 +13,9 @@
 I continued to pursue this story, but I found better data to support it at [DataUSA.io](Copy of Data USA Cart.csv). 
 I originally intended to tell this story through various maps, the data was all aggregated on the county level, so that kind of just made sense to me. However, after fiddling around with it for a while, I asked some people how it looked, and realized that it wasn't as descriptive as I imagined it would be. Here is an example of a [map](Map.pdf) I made at this stage. It's a little too cluttered and the relationships just don't stand out. 
 
-### user research protocol: 
+For some background, I am essentially taking a look at Social Determinants of Health (SDoH), a hot topic in healthcare right now. My approach is that healthcare professionals aren't as considerate of these determinants as they could/shoudl be, and showing them how the system is stackced against those who are less fortunate sets them at a disadvantage. I will then incorperate some strategies to help healthcare professionals help their patients overcome these issues. 
+
+### User Research Protocol: 
 * target audience I hope to reach
   * Healthcare Professionals
 * Approach to identifying representative individuals to interview
@@ -99,3 +101,14 @@ creating foods that their consumers crave. Pairing a snacking habit with a snack
 >I feel more informed on the role of environment in our health. I think there are so many things to consider when discussing these questions. I was focused on the processed-foods industry, but of course, the things you pointed to are important. It's so hard to eat well if you are poor. Or rather, eating well becomes infinitely more possible if you are upper middle class or better.
 >The story map was great because I love thinking about things as a story. Regarding the graphs, I feel the trends aren't crystal clear, so it may help to add some numbers or analysis to say, there's a correlation of X or something like that.
 >Nice!
+
+
+### Plan for redoing graphs and storyboard
+
+For the graphs, I plan on using a different software. I tried out Tableau, but it was a mess and took me forever to clean my data in sucha  way that it would accept it and graph out the data appropriately. In the end, the visualizations I made were sub-par. Given how much people like the software, I suspect it's my lack of familiarity with it that is the main issue. given that, if I have time this coming week to improve my Tableau skills enought ot create nice visuals, I might attempt it again, but that seems unlikely. 
+
+Most of the issues seemed to be the labeling, which I intend to make clearer. I was so focused on using that software that I forgot about the substance of the graphs. I will also be making the dots solid and play with the size, so that they look like individual dots of the same color, since one reviewer thought there were different collored dots (there weren't). 
+
+For the story, I will be working on the speicifc wording, but that part seemed a lot better. Most of the issues seemed to arrive in the solution I presented, which are the solutions that I learned about through classes, conferences, and books on the matter. I'll do more in-depth research on proven solutions to these issues, and incorperate those as well. 
+
+I will continue to use shorthand, as it seems to have a pretty simple interface and the ways it delivers graphis will work well with my story. 
