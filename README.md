@@ -30,5 +30,3 @@ these images are in higher quality here - [visualizations of the data](Access to
 4. Do you understand this story outline? What do you like/not like about it? ![Outline](https://lh4.googleusercontent.com/BGuJDlgc_ZDQpaTMKBvyAic2i-ADcvVTgd_OifV_IMlDJT6PZRO2ctjv6E1z1SsnEQurCESoHo9h08jwfBCP9NIqrdfySTKLUGoQhrU3AbKfZ5F15_rMdGMIDkrQ=w740)
 5. What are your thoughts now on the first two questions?
 
-
-
