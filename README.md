@@ -13,7 +13,7 @@
 I continued to pursue this story, but I found better data to support it at [DataUSA.io](Copy of Data USA Cart.csv). 
 I originally intended to tell this story through various maps, the data was all aggregated on the county level, so that kind of just made sense to me. However, after fiddling around with it for a while, I asked some people how it looked, and realized that it wasn't as descriptive as I imagined it would be. Here is an example of a [map](Map.pdf) I made at this stage. It's a little too cluttered and the relationships just don't stand out. 
 
-For some background, I am essentially taking a look at Social Determinants of Health (SDoH), a hot topic in healthcare right now. My approach is that healthcare professionals aren't as considerate of these determinants as they could/shoudl be, and showing them how the system is stackced against those who are less fortunate sets them at a disadvantage. I will then incorperate some strategies to help healthcare professionals help their patients overcome these issues. 
+For some background, I am essentially taking a look at Social Determinants of Health (SDoH), a hot topic in healthcare right now. My approach is that healthcare professionals aren't as considerate of these determinants as they could/should be, and showing them how the system is stackced against those who are less fortunate sets them at a disadvantage. I will then incorperate some strategies to help healthcare professionals help their patients overcome these issues. 
 
 ### User Research Protocol: 
 * target audience I hope to reach
@@ -109,8 +109,17 @@ For the graphs, I plan on using a different software. I tried out Tableau, but i
 
 Most of the issues seemed to be the labeling, which I intend to make clearer. I was so focused on using that software that I forgot about the substance of the graphs. I will also be making the dots solid and play with the size, so that they look like individual dots of the same color, since one reviewer thought there were different collored dots (there weren't). 
 
-For the story, I will be working on the speicifc wording, but that part seemed a lot better. Most of the issues seemed to arrive in the solution I presented, which are the solutions that I learned about through classes, conferences, and books on the matter. I'll do more in-depth research on proven solutions to these issues, and incorperate those as well. 
+For the story, I will be working on the specifc wording, but that part seemed a lot better. Most of the issues seemed to arrive in the solution I presented, which are the solutions that I learned about through classes, conferences, and books on the matter. I'll do more in-depth research on proven solutions to these issues, and incorperate those as well. 
 
 I will continue to use shorthand, as it seems to have a pretty simple interface and the ways it delivers graphis will work well with my story. 
 
 
+
+## Part 3
+So for the majority of my data visualizations, I actually did end up using Tableau, I figured it out after a while, and one of my classmates (Dan Dellovade) showed me how to upload those directly as interactive graphs into my shorthand, which I didn't use for my presentation, but I did add to my final shorthand. 
+
+For the presentation, I used (this shorthand)[https://carnegiemellon.shorthandstories.com/the-fallacy-of-personal-responsibility-/index.html]. I took the advice from my user research survey about making the graph labels clearer and making my call to action more, well, actionable, and implemented those changes. 
+
+The "template" I used for audience I was imagining was my wife and her father. My wife is an ICU nurse and her father is an ER doctor. They both deal with people from every walk of life imaginable. I wanted to convey my story to healthcare providers like them. They would see people from vulnerable populations, and I'm not sure their education really prepared them properly with how to alter their treatment for people from vulnerable populaitons. I tried to make it a little punchy too, to really grab their attention. It's hard to stand out when these providers regulalrly have to hold peoples organs in their hands or remove tumors from their necks. So I made the presentation a little more sweet and to the point with most slides with very few words.
+
+Throughout the process, I found that the hardest part was nailing down a story I wanted to tell that had the data I wanted to use to support it. The next hardest part was trying to clean that data and make it useable. I owe a large amount of gratitude to (Data USA)[datausa.io]
