@@ -142,13 +142,20 @@ Once I had relatively clean data, using Tableau wasn't too difficult to figure o
 
 I'd also like to be able to manipulate how large they come out as one screen, I think having them fullscreen is too overwhelming, but having them take up maybe half the screen, with an oversized title and easy to read axis labels would be better. I wasn't able to do that for the most part, but the tools I was able to find, like the trend line, were pretty easy to implement. Obviously, Tableau is a great tool, and depending on where I end up for my career, would probably be worthwhile to get comfortable with. 
 
-I made a more comprehensive version of my Shorthand 
+I made a more comprehensive version of my Shorthand - the link to it is [here](https://carnegiemellon.shorthandstories.com/the-fallacy-of-personal-responsibility/index.html)
+
+I've also embedded it below, but the double-embedding of the Tableau tables doesn't seem to have agreed with them. 
+
 
 <script src="https://embed.shorthand.com/embed_9.js"></script>
 <div data-shorthand-embed="carnegiemellon.shorthandstories.com/the-fallacy-of-personal-responsibility/"><h1>The Fallacy of Personal Responsibility</h1><p>
 
 How Behaviorally-Mediated Diseases 
 are a Lie</p></div>
+
+I built out the story a bit more and embedded the graphs, with pros and cons that I mentioned before. 
+
+Overall, I'm pretty happy with this, I learned about some nifty tools I wouldn't otherwise have been exposed to (Shorthand, github, tableau, datausa.io) and cmae out with a edcent product. I think for the next project I have like this, I want something more interactive, that lets people play with the data and see what outcomes they would get if things were different. 
 
 Sources
 All images taken from Unsplash.com and Pexels.com (no attribution required from either site)
