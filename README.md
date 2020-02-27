@@ -164,10 +164,15 @@ All images taken from Unsplash.com and Pexels.com (no attribution required from 
 Graph Data: https://datausa.io/
 
 Data tables:
+
 Adult Obesity by County (countyhealthrankings.org)
+
 Poverty Rate by County ( Census Bureau-The American Community Survey)
+
 Adult Smoking by County(countyhealthrankings.org)
+
 Limited Access to Healthy Foods by County (countyhealthrankings.org)
+
 Access to Exercise Opportunities by County (countyhealthrankings.org)
 
 Graphs created in Tableau
