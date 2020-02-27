@@ -141,3 +141,4 @@ Once I had relatively clean data, using Tableau wasn't too difficult to figure o
 I'd also like to be able to manipulate how large they come out as one screen, I think having them fullscreen is too overwhelming, but having them take up maybe half the screen, with an oversized title and easy to read axis labels would be better. I wasn't able to do that for the most part, but the tools I was able to find, like the trend line, were pretty easy to implement. 
 
 
+
