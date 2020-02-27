@@ -144,7 +144,8 @@ I'd also like to be able to manipulate how large they come out as one screen, I 
 
 I made a more comprehensive version of my Shorthand - the link to it is [here](https://carnegiemellon.shorthandstories.com/the-fallacy-of-personal-responsibility/index.html)
 
-I've also embedded it below, but the double-embedding of the Tableau tables doesn't seem to have agreed with them. 
+I've also embedded it below, ~~but the double-embedding of the Tableau tables doesn't seem to have agreed with them.~~ and it seems to be working fine right now.
+
 
 
 <script src="https://embed.shorthand.com/embed_9.js"></script>
