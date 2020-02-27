@@ -157,7 +157,7 @@ I built out the story a bit more and embedded the graphs, with pros and cons tha
 
 Overall, I'm pretty happy with this, I learned about some nifty tools I wouldn't otherwise have been exposed to (Shorthand, github, tableau, datausa.io) and cmae out with a edcent product. I think for the next project I have like this, I want something more interactive, that lets people play with the data and see what outcomes they would get if things were different. 
 
-Sources
+## Sources
 All images taken from Unsplash.com and Pexels.com (no attribution required from either site)
 
 Graph Data: https://datausa.io/
