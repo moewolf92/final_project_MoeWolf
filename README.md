@@ -144,7 +144,11 @@ I'd also like to be able to manipulate how large they come out as one screen, I 
 
 I made a more comprehensive version of my Shorthand 
 
-<script src="https://embed.shorthand.com/embed_9.js"></script> <div data-shorthand-embed="carnegiemellon.shorthandstories.com/the-fallacy-of-personal-responsibility/"><h1>The Fallacy of Personal Responsibility</h1><p> How Behaviorally-Mediated Diseases are a Lie</p></div>
+<script src="https://embed.shorthand.com/embed_9.js"></script>
+<div data-shorthand-embed="carnegiemellon.shorthandstories.com/the-fallacy-of-personal-responsibility/"><h1>The Fallacy of Personal Responsibility</h1><p>
+
+How Behaviorally-Mediated Diseases 
+are a Lie</p></div>
 
 Sources
 All images taken from Unsplash.com and Pexels.com (no attribution required from either site)
