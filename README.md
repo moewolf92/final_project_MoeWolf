@@ -176,4 +176,3 @@ Limited Access to Healthy Foods by County (countyhealthrankings.org)
 Access to Exercise Opportunities by County (countyhealthrankings.org)
 
 Graphs created in Tableau
-
